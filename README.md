@@ -29,7 +29,7 @@ alt="Flutter Fetch Data From API using Riverpod as State Management" width="480"
 
 [<img align="center" alt="PesaCoder | YouTube" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fyoutube.png?alt=media" />](https://www.youtube.com/PesaCoder?sub_confirmation=1)&ensp;YouTube: [@PesaCoder](https://www.youtube.com/PesaCoder?sub_confirmation=1 "YouTube Johannes Milke")
 
-[<img align="center" alt="PesaCoder | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPesaCoder&screen_name=PesaCoder)&ensp;Twitter: [@PesaCoder](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPesaCoder&screen_name=PesaCoder "Twitter Johannes Milke")
+[<img align="center" alt="PesaCoder | Twitter" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Ftwitter.png?alt=media" />](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPesaCoder&screen_name=PesaCoder)&ensp;Twitter: [@PesaCoder](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPesaCoder&screen_name=PesaCoder "Twitter PesaCoder")
 
 [<img align="center" alt="PesaCoder | Facebook Page" width="28px" src="https://firebasestorage.googleapis.com/v0/b/pesastore-6448e.appspot.com/o/facebook.png?alt=media" />](https://www.facebook.com/pesacoder)&ensp;Facebook: [@PesaCoder](https://www.facebook.com/PesaCoder "Facebook Pesa Coder")
     
@@ -47,6 +47,6 @@ alt="Flutter Fetch Data From API using Riverpod as State Management" width="480"
 
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPesaCoder&screen_name=PesaCoder
 [youtube]: https://www.youtube.com/PesaCoder?sub_confirmation=1
-[courses]: https://johannesmilke.teachable.com/p/home
-[newsletter]: https://johannesmilke.com/#/newsletter
+[courses]: https://PesaCoder.teachable.com/p/home
+[newsletter]: https://PesaCoder.com/#/newsletter
 [sponsor]: https://github.com/sponsors/PesaCoder
